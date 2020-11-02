@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=benediktus15&count_private=true&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benediktus15&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **benediktus15/benediktus15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
